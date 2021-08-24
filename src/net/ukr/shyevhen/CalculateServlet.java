@@ -45,3 +45,4 @@ public class CalculateServlet extends HttpServlet {
 		}
 	}
 }
+// Some changes
